@@ -7,6 +7,7 @@ Intervento di apertura: Ida Nicotra (Componente dell'Autorità Nazionale Anticor
 ## Audio dell'evento
 https://raw.githubusercontent.com/SiciliaHub/EventoOpenGov/master/MP736177.MP3
 ## Saggio presentato dal Prof. Gaetano Armao
+"Open Government: Trasparenza totale ed applicazione nella Regione Siciliana"
 https://raw.githubusercontent.com/SiciliaHub/EventoOpenGov/master/E-Book-Armao-5-luglio-reduce-file-size.pdf
 ## Fonte
 http://www.radioradicale.it/scheda/419930/open-gov-ampliare-lascolto-e-condividere-le-decisioni
